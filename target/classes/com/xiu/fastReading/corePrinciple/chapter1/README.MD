@@ -112,7 +112,19 @@
 ![image](https://github.com/williamzhang11/fastReading/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.10.jpg)
 
 
+## 1.3大型网站架构演化价值观
 
+大型网站架构技术的核心价值是随网站所需灵活应对
+
+驱动大型网站技术发展的主要力量是网站的业务发展
+
+## 1.4架构设计误区
+
+一味追求大公司的解决方案
+
+为了技术而技术
+
+企图用技术解决所有问题
 
 
 
