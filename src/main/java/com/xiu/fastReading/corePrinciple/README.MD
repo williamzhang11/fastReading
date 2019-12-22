@@ -5,5 +5,5 @@
 ## 目前已整理的章节以及对应的包名如下：
 |图书|
 | :------ |
-| [第一章-大型网站架构演化](src/main/java/com/xiu/fastReading/corePrinciple/chapter1)|
-| [第十四章-架构师领导的艺术](src/main/java/com/xiu/fastReading/corePrinciple/chapter14)|
+| [第一章-大型网站架构演化](./chapter1)|
+| [第十四章-架构师领导的艺术](./chapter14)|

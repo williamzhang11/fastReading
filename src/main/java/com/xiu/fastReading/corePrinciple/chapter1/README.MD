@@ -16,7 +16,7 @@
 
 ### 1.2.1 初始阶段的网站架构
 
-![image](https://github.com/williamzhang11/fastMiddleware/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.1.jpg)
+![image](https://github.com/williamzhang11/fastReading/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.1.jpg)
 
 应用程序,文件,数据库等所有资源都在一台服务器.
 
@@ -24,7 +24,7 @@
 
 ### 1.2.2 应用和数据服务器分离
 
-![image](https://github.com/williamzhang11/fastMiddleware/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.2.jpg)
+![image](https://github.com/williamzhang11/fastReading/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.2.jpg)
 
 
 	应用服务器需要处理大量业务逻辑,需要更强大cpu
@@ -38,7 +38,7 @@
 二八定律:80%的业务访问集中20%的数据上.
 使用缓存减轻数据库访问压力
 
-(https://github.com/williamzhang11/fastMiddleware/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.3.jpg)
+(https://github.com/williamzhang11/fastReading/blob/master/src/main/java/com/xiu/fastReading/corePrinciple/image/1.2.3.jpg)
 
 	使用的缓存分为:本地缓存,分布式缓存
 	本地缓存:本地缓存速度更快,但受限于本地机器内存限制,而且会出现与应用程序争用内存情况
